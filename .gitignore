@@ -1,0 +1,9 @@
+*.PNG
+*.jpg
+*.jpeg
+*.csv
+*.h5
+*checkpoint*
+*.gz
+*.npy
+*.index
